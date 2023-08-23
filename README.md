@@ -13,6 +13,7 @@ I'm Josh(ua) Britain, a second year computing science student at the University 
 - JavaScript, with frameworks such as React and Svelte
 - Python, as a general purpose language
 - Game development in Godot
+- 32 bit ARM assembly (for some reason)
 
 ### You can contact me on
 
