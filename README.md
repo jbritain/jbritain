@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi,
 
-<!--
-**jbritain/jbritain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Josh(ua) Britain, a second year computing science student at the University of Aberdeen.
 
-Here are some ideas to get you started:
+### I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer graphics (shaders in particular)
+- Web development (both front and backend)
+- Integrated systems
+
+### I have experience in
+
+- JavaScript, with frameworks such as React and Svelte
+- Python, as a general purpose language
+- Game development in Godot
+
+### You can contact me on
+
+- [My website](https://jbritain.net)
+- Discord `@jbritain`
