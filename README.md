@@ -10,10 +10,10 @@ I'm Josh(ua) Britain, a second year computing science student at the University 
 
 ### I have experience in
 
-- JavaScript, with frameworks such as React and Svelte
-- Python, as a general purpose language
+- JavaScript, with frameworks such as Next.js and Svelte
+- Python
 - Game development in Godot
-- 32 bit ARM assembly (for some reason)
+- Minecraft Shader Development
 
 ### You can contact me on
 
