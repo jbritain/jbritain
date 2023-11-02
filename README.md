@@ -12,6 +12,7 @@ I'm Josh(ua) Britain, a second year computing science student at the University 
 
 - JavaScript, with frameworks such as Next.js and Svelte
 - Python
+- Java
 - Game development in Godot
 - Minecraft Shader Development
 
