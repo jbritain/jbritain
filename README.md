@@ -1,3 +1,5 @@
+![](https://jbritain.net/assets/bannernew.png)
+
 ### Hi,
 
 I'm Josh(ua) Britain, a second year computing science student at the University of Aberdeen.
