@@ -16,7 +16,7 @@ I'm Josh(ua) Britain, a second year computing science student at the University 
 - Python
 - Java
 - Game development in Godot
-- Minecraft Shader Development
+- Minecraft Shader Development in GLSL
 
 ### You can contact me on
 
