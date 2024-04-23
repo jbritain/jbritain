@@ -2,7 +2,7 @@
 
 ### Hi,
 
-I'm Josh(ua) Britain, a second year computing science student at the University of Aberdeen.
+I'm Josh(ua) Britain, a second year computing science student.
 
 ### I'm interested in
 
@@ -13,10 +13,11 @@ I'm Josh(ua) Britain, a second year computing science student at the University 
 ### I have experience in
 
 - JavaScript, with frameworks such as Next.js and Svelte
+- Minecraft Shader Development in GLSL
 - Python
 - Java
 - Game development in Godot
-- Minecraft Shader Development in GLSL
+
 
 ### You can contact me on
 
