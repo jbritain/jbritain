@@ -12,7 +12,8 @@ I'm Josh(ua) Britain, a second year computing science student.
 
 ### I have experience in
 
-- JavaScript, with frameworks such as Next.js and Svelte
+- 'Modern' Web Development, with frameworks such as Next.js and Svelte
+- 'Traditional' Web Development - Using Jekyll or Nunjucks (with express.js) for templating and writing CSS and HTML directly.
 - Minecraft Shader Development in GLSL
 - Python
 - Java
