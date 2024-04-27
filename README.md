@@ -22,5 +22,4 @@ I'm Josh(ua) Britain, a second year computing science student.
 
 ### You can contact me on
 
-- [My website](https://jbritain.net)
 - Discord `@joshtheb`
