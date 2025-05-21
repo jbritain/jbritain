@@ -1,6 +1,6 @@
 ### Hi,
 
-I'm Josh Britain, a third year computing science student.
+I'm Josh Britain, a fourth year computing science student.
 
 ### I have experience in
 
